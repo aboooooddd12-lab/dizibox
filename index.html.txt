@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقعي</title>
+</head>
+<body>
+  <h1>اشتغل 🎉</h1>
+  <p>هذا أول موقع لي على GitHub Pages</p>
+</body>
+</html>
+
+
+
